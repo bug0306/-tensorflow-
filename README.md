@@ -1,5 +1,5 @@
-# Communication For the Deaf
-This python program is a translator between sign language and english. Currently only recognizes letters and converts letter by letter.
+# 基于TensorFlow的手语识别
+This python program is a translator between sign language and english and chinese. Currently only recognizes letters and converts letter by letter.It is currently possible to convert voice into gestures, but the conversion of gestures to voice needs to be improved.
 Run `main.py` for the UI and each of the individeual files for other reasons.
 <br />
 <br />
